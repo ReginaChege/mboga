@@ -1,4 +1,4 @@
-.information {
+.inform {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -47,7 +47,7 @@
     left: 0;
   }
   @media only screen and (max-width: 768px) {
-    .information {
+    .inform {
       flex-direction: column;
     }
     .contact {
