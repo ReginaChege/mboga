@@ -1,9 +1,6 @@
 body{
     overflow-x: hidden;
    }
-   .headd {
-     
-     }
      .navbar {
        background-color:rgb(4, 90, 4);
        height: 80px;
@@ -18,7 +15,6 @@ body{
        margin: 0;
        padding: 0;
        height: 80px;
-       /* margin-left: 2%; */
      }
      .navbar .logo img {
        height: 100%;
